@@ -1,0 +1,19 @@
+{
+    "name": "conark/grecaptcha",
+    "description": "Adds Google's Recaptcha service to your site",
+    "authors": [
+        {
+            "name": "conark",
+            "email": "conark@gmail.com"
+        }
+    ],
+    "require": {
+      "guzzlehttp/oauth-subscriber": "0.1.*"
+    },
+    "require-dev": {
+      "phpunit/phpunit": "~4.0",
+      "laravel/framework": "~5.1"
+    },
+
+    "minimum-stability": "stable"
+}
